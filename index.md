@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## Screenshots
+<img src="https://evox-gay.club/rkPM-QRf/NedjNNwKwQ_qbT.png"> <img src="https://evox-gay.club/Cv-8c38d/mAqp3c72fyVY46.png">
 
-You can use the [editor on GitHub](https://github.com/clownless/fetloader-site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Features
+- Web UI
+- Custom repositories w/ cheats
+- Big cheats library (no)
+- Opensource
+- A more shitcode
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## How to compile
+- Clone the repository with the command `git clone https://github.com/clangremlini/fet-loader | cd fet-loader | git submodule update --init --recursive`
+- Run `COMPILE.bat`
 
-### Markdown
+## Frequent problems and their solutions
+- See [this](https://github.com/clangremlini/fet-loader/discussions?discussions_q=category%3A%22Solved+bugs%22)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Contributing
 
-```markdown
-Syntax highlighted code block
+Any contributions you make are **greatly appreciated**.
 
-# Header 1
-## Header 2
-### Header 3
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Credits
+- Loader: [clownless](https://m4x3r.xyz) & [rf0x3d](https://rf0x3d.su) & [iluvureyes](https://t.me/iluvureyes)
+- Inject_Dll: [Brian Baker](https://github.com/Fooly-Cooly)
+- Neutron: [G33kDude](https://github.com/G33kDude/Neutron.ahk)
+- ExternalModuleBypasser: [0x000cb](https://github.com/0x000cb)
+- VAC-Bypass-Loader: [danielkrupinski](https://github.com/danielkrupinski/VAC-Bypass-Loader)
+- Ahk2Exe: [AutoHotkey](https://github.com/AutoHotkey/Ahk2Exe)
+- Translation: [Gl1c1n](https://github.com/Gl1c1n)
+- Web-UI: [toxyxd](https://github.com/toxyxd)
+- Custom repo: [zrn1x](https://github.com/oliyase)
+- Big thanks to MORGENSHTERN and his tracks
 
-**Bold** and _Italic_ and `Code` text
+## License
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/clownless/fetloader-site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Distributed under the MIT License. See `LICENSE` for more information.
